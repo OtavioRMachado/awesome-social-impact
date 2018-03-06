@@ -1,5 +1,5 @@
 # Awesome Social Impact [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list of social impact projects
+Do you want to use your skills to change the world but do not know where to start? Here's a curated list of social impact projects to help you out. :-) (smiley face)
 
 # Table of contents
 * [Open Source Projects](#open-source-projects)
