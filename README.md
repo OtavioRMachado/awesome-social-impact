@@ -20,6 +20,7 @@ Do you want to use your skills to change the world but do not know where to star
 - [Django Girls](https://djangogirls.org/) – Django Girls organize free Python and Django workshops, create open sourced online tutorials and curate amazing first experiences with technology.
 - [Rails Girls](http://railsgirls.com/) – gives tools and a community for women to understand technology and to build their ideas. We do this by providing a great experience on building things and by making technology more approachable.
 - [AfroPython](http://afropython.org/) – (PT-BR) AfroPython is a programming workshop that has aims to encourage black people to be a part of IT, even though it is not made only for black people.
+- [Datakind](http://www.datakind.org/) – Harnessing the power of data science in the service of humanity. DataKind, a nonprofit that's devoted to connecting well-meaning data scientists with groups seeking pro-bono help.
 
 # More
 See [CONTRIBUTING](CONTRIBUTING.md) for info on how to contribute to this list.
