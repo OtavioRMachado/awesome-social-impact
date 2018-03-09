@@ -12,6 +12,7 @@ Do you want to use your skills to change the world but do not know where to star
 - [Miracle](https://github.com/OtavioRMachado/miracle-site) – Making it easier to help out people in need.
 - [Serenata de Amor](https://github.com/okfn-brasil/serenata-de-amor) – Artificial Intelligence for social control of public administration.
 - [Vamos Juntas?](https://github.com/VamosJuntas) – (PT-BR) Bringing women together.
+- [Transerviços](https://github.com/ThoughtWorksInc/transervicos) – (PT-BR) Repository of services from/to transsexual people
 
 ## Companies
 - [HumanDX](https://www.humandx.org/) – a worldwide effort created with and led by the global medical community to build an online system that maps the best steps to help any patient.
