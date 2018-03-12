@@ -16,7 +16,7 @@ Do you want to use your skills to change the world but do not know where to star
 
 ## Companies
 - [HumanDX](https://www.humandx.org/) – a worldwide effort created with and led by the global medical community to build an online system that maps the best steps to help any patient.
-- [InfoPreta](http://www.infopreta.com.br/) - A brazillian company made by black girls that provides IT services like support, websites development and etc..
+- [InfoPreta](http://www.infopreta.com.br/) - A brazillian company made by black women that provides IT services such as support and website development.
 
 ## Initiatives
 
