@@ -10,6 +10,7 @@ Do you want to use your skills to change the world but do not know where to star
 - [Bahmni](https://github.com/bahmni) - Open Source easy-to-use EMR & hospital system.
 - [CaronaBoard](https://github.com/CaronaBoard) - (PT-BR) An app that connects drivers with people that can take a lift.
 - [Data-Gov](https://github.com/data-gov/data-gov.github.io) - (PT-BR) Making government data accessible to developers through an easy to use API
+- [Falae](https://github.com/marcelorcorrea/falae) - (PT-BR) An alternative communication app for people with speech and mobility impairments.
 - [Miracle](https://github.com/OtavioRMachado/miracle-site) – Making it easier to help out people in need.
 - [Serenata de Amor](https://github.com/okfn-brasil/serenata-de-amor) – Artificial Intelligence for social control of public administration.
 - [Vamos Juntas?](https://github.com/VamosJuntas) – (PT-BR) Bringing women together.
